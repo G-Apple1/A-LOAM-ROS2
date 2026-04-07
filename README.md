@@ -7,7 +7,9 @@ This version is fully ported to ROS2 Humble.
 
 **Original Project:** [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
 
+Bilibili视频：[aloam ros2 视频演示](https://www.bilibili.com/video/BV1fEDvB9EXq/?spm_id_from=333.1387.homepage.video_card.click),Debug版本，会有明显延迟
 
+CSDN文章：[A-loam-ros2 迁移（ros2-humble）](https://gapple.blog.csdn.net/article/details/159927919?spm=1001.2014.3001.5502)
 
 **Modifier:** [Tong Qin](http://www.qintonguav.com), [Shaozu Cao](https://github.com/shaozu)
 
